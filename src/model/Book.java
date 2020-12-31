@@ -32,7 +32,7 @@ public class Book {
 		return lendQuantity;
 	}
 
-	public void setLendQuantity(int quantity) {
+	public void setLendQuantity(int lendQuantity) {
 		this.lendQuantity = lendQuantity;
 	}
 
